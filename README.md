@@ -14,10 +14,10 @@ Using EDA I have tried to explore Haberman's Survival Data Set. The dataset cont
 - Univariate Analysis
   - An analysis performed on a single variable(a unique feature) is known as an univariate analysis.
   - The following plots fall under the univariate analysis:
-   - PDF(s)
-   - CDF(s)
-   - Box Plots
-   - Violin Plots
+    - PDF(s)
+    - CDF(s)
+    - Box Plots
+    - Violin Plots
 - Bivariate Analysis
  - An analysis performed on two variable(two features) is known as a bivariate analysis.
  - The following plots fall under the univariate analysis:
