@@ -19,7 +19,7 @@ Using EDA I have tried to explore Haberman's Survival Data Set. The dataset cont
     - Box Plots
     - Violin Plots
 - Bivariate Analysis
- - An analysis performed on two variable(two features) is known as a bivariate analysis.
- - The following plots fall under the univariate analysis:
-   - Pair-Plots
-   - Scatter Plots
+  - An analysis performed on two variable(two features) is known as a bivariate analysis.
+  - The following plots fall under the univariate analysis:
+    - Pair-Plots
+    - Scatter Plots
