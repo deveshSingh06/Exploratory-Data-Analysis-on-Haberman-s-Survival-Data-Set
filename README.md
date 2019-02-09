@@ -1,6 +1,11 @@
 # Exploratory-Data-Analysis-on-Haberman-s-Survival-Data-Set
 Using EDA I have tried to explore Haberman's Survival Data Set. The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.
 
+## What is Exploratory Data Analysis(EDA) ?
+- It is a task of analyzing the given data using tools from Statistics, Linear Algebra, Plotting tools, etc.
+- It is the very first thing to do before providing a model using machine learning.
+- Here, we explore the given data as much as we can, hence the name Exploratory.
+
 ## Features used in the data set:
 - Age
 - Operation year
