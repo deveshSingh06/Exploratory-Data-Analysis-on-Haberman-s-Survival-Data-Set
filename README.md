@@ -12,7 +12,7 @@ Using EDA I have tried to explore Haberman's Survival Data Set. The dataset cont
 - Predict whether a pateint died(within 5 years of operation) or survived(5 years or longer) after the operation.
 ## EDA on the data set has been applied using the following:
 - Univariate Analysis
-  - An analysis performed on a single variable(a unique feature) is known as an univariate analysis.
+  - An analysis performed on a single variable(a unique feature) is known as a univariate analysis.
   - The following plots fall under the univariate analysis:
     - PDF(s)
     - CDF(s)
