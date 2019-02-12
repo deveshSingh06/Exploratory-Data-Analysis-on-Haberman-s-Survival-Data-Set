@@ -10,7 +10,7 @@ Using EDA I have tried to explore Haberman's Survival Data Set. The dataset cont
 - Age
 - Operation year
 - Number of axillary lymph  nodes
-## Class:
+## Classes:
 - Survived
 - Died
 ## Objective:
