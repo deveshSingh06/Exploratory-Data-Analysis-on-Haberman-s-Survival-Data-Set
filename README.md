@@ -6,6 +6,8 @@ Using EDA I have tried to explore Haberman's Survival Data Set. The dataset cont
 - It is the very first thing to do before providing a model using machine learning.
 - Here, we explore the given data as much as we can, hence the name Exploratory.
 
+**Note**: While exploring the data one must also try to clean the data by using some data cleaning techniques such as deduplication, removing extra spaces, change text to the proper case, spell check, etc.
+
 ## Features used in the data set:
 - Age
 - Operation year
